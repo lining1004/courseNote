@@ -1,7 +1,5 @@
 # courseNote
 
-[TOC]
-
 ## java
 
 ### corejava
