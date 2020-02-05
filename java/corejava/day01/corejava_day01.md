@@ -18,11 +18,9 @@ Java平台包括**标准版**（J2SE）、**企业版**（J2EE）和**微缩版*
 
 软件开发中使用的开发工具
 
-java官方文档网址：https://docs.oracle.com/javase/8/docs/
-
 <img src="C:\Users\lining\AppData\Roaming\Typora\typora-user-images\image-20200205204328091.png" alt="image-20200205204328091" style="zoom: 67%;" />
 
-​	
+
 
 为什么要学习Corejava？
 
