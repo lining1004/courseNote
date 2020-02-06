@@ -18,7 +18,7 @@ Java平台包括**标准版**（J2SE）、**企业版**（J2EE）和**微缩版*
 
 软件开发中使用的开发工具
 
-<img src="C:\Users\lining\AppData\Roaming\Typora\typora-user-images\jdkAndjre.png" alt="image-20200205204328091" style="zoom: 67%;" />
+<img src="https://github.com/lining1004/courseNote/blob/master/java/corejava/image/jdkAndjre.png" alt="image-20200205204328091" style="zoom: 67%;" />
 
 
 
