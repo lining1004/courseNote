@@ -20,8 +20,6 @@ Java平台包括**标准版**（J2SE）、**企业版**（J2EE）和**微缩版*
 
 <img src="https://github.com/lining1004/courseNote/blob/master/java/corejava/image/jdkAndjre.png" alt="image-20200205204328091" style="zoom: 67%;" />
 
-
-
 为什么要学习Corejava？
 
 JDK主要包括内容
@@ -37,6 +35,22 @@ JVM（java虚拟机）
 java环境变量的设置
 
 ## java是一门编程语言。
+
+编写一个输出helloWorld字符串的程序
+
+1. 创建demo文件夹，文件夹中分别创建src文件夹和bin文件夹
+2. 在src文件夹中创建名为Test.java的java源文件。
+3. 在Test.java中编写以下程序：
+
+```java
+public class Test{
+    public static void main(String[] args){
+        System.out.println("hello world!");
+    }
+}
+```
+
+4. 
 
 java的程序结构
 
